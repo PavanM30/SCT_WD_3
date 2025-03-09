@@ -1,0 +1,21 @@
+ cursor: pointer;
+}
+
+.cell:hover {
+  background-color: #e0e0e0;
+}
+
+.status {
+  margin-top: 20px;
+  font-size: 1.5rem;
+}
+
+.game-mode {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+}
